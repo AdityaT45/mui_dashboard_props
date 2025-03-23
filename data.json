@@ -1,0 +1,84 @@
+{
+  "newsData": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSswbX7SognsX6icYxfrVyp45VIPq_NCFtusjUyORiH02Xp2V2D",
+      "title": "How Jobie is Helping Millions of People Get Back to Work",
+      "author": "Samuel Anderson",
+      "date": "4 days ago",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "https://corephp.com/wp-content/uploads/elementor/thumbs/olu-eletu-38649-1024x678-q3gxiw8c2h8xu6sukq0px5um7ctkl0754elwr8100o.jpg",
+      "title": "To Find Your Next Job More Quickly, Tell Your Community You're Open to Work",
+      "author": "Jarjit sigh",
+      "date": "2 days ago",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "https://www.michaelpage.co.in/sites/michaelpage.co.in/files/2021-05/qualitative%20performance%20evaluations.png",
+      "title": "Global Diversity Awareness Month: Building an Equitable Workplace Culture For All",
+      "author": "Michael Scott",
+      "date": "1 week ago",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "https://images.cnbctv18.com/wp-content/uploads/2018/03/Startup-47.jpg?impolicy=website&width=400&height=225",
+      "title": "Jobie's Story about Helping 10 Million Learners and Counting",
+      "author": "Michael Scott",
+      "date": "1 week ago",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "https://contentstatic.techgig.com/thumb/msid-81763367,width-640,height-360/5-tips-for-better-developer-designer-collaboration.jpg",
+      "title": "How Jobie is Helping Millions of People Get Back to Work",
+      "author": "Michael Scott",
+      "date": "1 week ago",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "image": "https://www.wowclaps.com/img/carousel-1.jpg",
+      "title": "How Jobie is Helping Millions of People Get Back to Work",
+      "author": "Michael Scott",
+      "date": "1 week ago",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ],
+
+  "notification": {
+    "notifications": 22,
+    "messeges": 44
+  },
+
+
+  "profile":{
+    "ProfImage":"https://images.unsplash.com/photo-1633332755192-727a05c4013d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "ProfName":"Oda Dink",
+    "ProfRole":"Super Admin"
+  },
+
+  "banner":{
+    "bannerImg":"",
+    "bannerNews":"What You Need to Know to Get Hired This Month: November 2020",
+    "bannerName":"Samuel Anderson",
+    "bannerDate": 12,
+    "bannerDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed     do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam..."
+  },
+
+
+    "menuItems": [
+      { "text": "Dashboard", "icon": "DashboardIcon" },
+      { "text": "Search Job", "icon": "SearchIcon" },
+      { "text": "Applications", "icon": "ExtensionIcon" },
+      { "text": "Messages", "icon": "MessageIcon" },
+      { "text": "Statistics", "icon": "PieChartIcon" },
+      { "text": "News", "icon": "NewspaperIcon" }
+    ]
+  
+  
+
+
+  
+
+
+
+}
