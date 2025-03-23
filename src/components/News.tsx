@@ -9,6 +9,7 @@ interface NewsProps {
   newsData: any[];
 }
 
+
 const News: React.FC<NewsProps> = ({ newsData }) => {
   return (
     <>
